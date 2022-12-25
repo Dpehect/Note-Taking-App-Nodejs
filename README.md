@@ -1,5 +1,15 @@
 # Note-Taking-App-Nodejs
 Before starting the project, type the following into the terminal:
+
+
+
+
+
+
+
+
+
+
 npm init -y
 
 
